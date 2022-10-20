@@ -1,0 +1,11 @@
+首先安装JAVA，JAVA下载地址：
+https://www.java.com/zh-CN/download/
+
+点击Start运行~
+
+本软件作者：Civitsav
+
+软件页面：
+
+github: https://github.com/Civitasv/AMapPoi
+gitee: https://gitee.com/simpls/AMapPoi
